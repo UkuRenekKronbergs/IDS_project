@@ -1,7 +1,4 @@
-# IDS (Sissejuhatus andmeteadusesse) 2024 project 
-
-
-# Used car prices prediction
+# IDS (Sissejuhatus andmeteadusesse) 2024 project - Used car prices prediction
 
 Team: D1
 
