@@ -8,7 +8,7 @@
 ---
 
 ## **🌟 Motivation**
-The used car market is a dynamic ecosystem influenced by multiple factors such as brand, mileage, age, and overall condition. Accurate price predictions provide:  
+The used car market is a dynamic system influenced by multiple factors such as brand, mileage, age, and overall condition. Accurate price predictions provide:  
 - **Buyers**: Confidence in making informed purchasing decisions.  
 - **Sellers**: Tools to set competitive and fair prices.  
 - **Market Analysts**: Insights into value retention trends across brands and models.
