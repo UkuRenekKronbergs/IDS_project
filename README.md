@@ -26,5 +26,3 @@ By combining machine learning and data analysis, this project aims to unlock act
 
 3. 📉 **Depreciation Analysis**  
    Analyze and visualize **depreciation trends** across various brands and models to understand value retention.
-
----
